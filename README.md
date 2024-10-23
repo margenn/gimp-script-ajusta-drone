@@ -2,6 +2,7 @@
 
 Esse script é utilizado para melhorar a qualidade das fotos tiradas com drone. Ele Ajusta o histograma da foto e realça as cores.
 
+
 ## COMO UTILIZAR
 
 Coloque o script na pasta ~/.config/GIMP/2.10/scripts/
@@ -14,4 +15,8 @@ Escolha as pastas de entrada (onde estão os arquivos originais) e a de saída (
 
 Confirme e aguarde o processamento
 
+
+## Limitações e bugs
+
+Este script foi testado com o Gimp na versão 2.10.30 em Linux. Alguns ajustes são necessários para funcionar em windows.
 
